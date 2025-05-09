@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 920c66b819aa6d543bd2f511d7ad88b5
+guid: 0b6419857e706a14f95b24a50c414ee8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8298429886876995529
-    second: insecteur_0
+      213: 7038570272862576137
+    second: scifi_space_rpg_tiles_lpcized_0
+  - first:
+      213: -8938653357429290570
+    second: scifi_space_rpg_tiles_lpcized_1
+  - first:
+      213: 373484481915501261
+    second: scifi_space_rpg_tiles_lpcized_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +81,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: insecteur_0
+      name: scifi_space_rpg_tiles_lpcized_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 3
-        width: 439
-        height: 376
+        x: 0
+        y: 6
+        width: 448
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 730363f1cfd06dc80800000000000000
-      internalID: -8298429886876995529
+      spriteID: 90e19980f560ea160800000000000000
+      internalID: 7038570272862576137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi_space_rpg_tiles_lpcized_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b90314612683f380800000000000000
+      internalID: -8938653357429290570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi_space_rpg_tiles_lpcized_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcab1b15822ee2500800000000000000
+      internalID: 373484481915501261
       vertices: []
       indices: 
       edges: []
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      insecteur_0: -8298429886876995529
+      scifi_space_rpg_tiles_lpcized_0: 7038570272862576137
+      scifi_space_rpg_tiles_lpcized_1: -8938653357429290570
+      scifi_space_rpg_tiles_lpcized_2: 373484481915501261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mandibule_0: 2158130974754194108
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

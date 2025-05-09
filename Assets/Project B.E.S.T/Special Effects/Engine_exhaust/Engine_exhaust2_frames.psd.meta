@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 920c66b819aa6d543bd2f511d7ad88b5
+guid: 0ad0b05bad23b4642b6b84df239d9f9c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8298429886876995529
-    second: insecteur_0
+      213: -8908552839631489751
+    second: Engine_exhaust2_frames_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: insecteur_0
+      name: Engine_exhaust2_frames_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 3
-        width: 439
-        height: 376
+        x: 10
+        y: 10
+        width: 67
+        height: 108
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 730363f1cfd06dc80800000000000000
-      internalID: -8298429886876995529
+      spriteID: 925b7f254667e5480800000000000000
+      internalID: -8908552839631489751
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      insecteur_0: -8298429886876995529
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

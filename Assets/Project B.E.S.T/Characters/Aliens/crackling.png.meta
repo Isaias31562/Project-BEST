@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crackling_0: -7647635302349640761
+      crackling_1: 7139507427089309453
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

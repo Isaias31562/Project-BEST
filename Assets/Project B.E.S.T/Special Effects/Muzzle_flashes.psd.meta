@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 920c66b819aa6d543bd2f511d7ad88b5
+guid: f94a787b3a73f0947b1946aea320258c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8298429886876995529
-    second: insecteur_0
+      213: -7953764814397572687
+    second: Muzzle_flashes_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: insecteur_0
+      name: Muzzle_flashes_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 3
-        width: 439
-        height: 376
+        x: 0
+        y: 0
+        width: 249
+        height: 276
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 730363f1cfd06dc80800000000000000
-      internalID: -8298429886876995529
+      spriteID: 1b9f4daca0d8e9190800000000000000
+      internalID: -7953764814397572687
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      insecteur_0: -8298429886876995529
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
