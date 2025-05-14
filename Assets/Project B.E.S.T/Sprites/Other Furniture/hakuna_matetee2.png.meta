@@ -87,7 +87,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,6 +121,32 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -434,7 +460,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hakuna_matetee2_0: -2131502485604117157
+      hakuna_matetee2_1: 5708861573502643731
+      hakuna_matetee2_10: 5806930964815950400
+      hakuna_matetee2_11: -2316047582956432722
+      hakuna_matetee2_12: 1702913274712731130
+      hakuna_matetee2_2: -5589713061764662622
+      hakuna_matetee2_3: -6530418841337619593
+      hakuna_matetee2_4: 5768647424758759510
+      hakuna_matetee2_5: 1193827629578454742
+      hakuna_matetee2_6: -5616279632214756639
+      hakuna_matetee2_7: 8859226033429167743
+      hakuna_matetee2_8: -5547641909787275366
+      hakuna_matetee2_9: 630501031486858375
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
