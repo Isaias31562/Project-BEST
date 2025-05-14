@@ -102,6 +102,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -109,10 +135,10 @@ TextureImporter:
       name: scifi_space_rpg_tiles_lpcized_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 6
-        width: 448
-        height: 250
+        x: 392
+        y: 115
+        width: 16
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,10 +157,10 @@ TextureImporter:
       name: scifi_space_rpg_tiles_lpcized_1
       rect:
         serializedVersion: 2
-        x: 13
-        y: 0
-        width: 84
-        height: 33
+        x: 416
+        y: 196
+        width: 32
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +179,10 @@ TextureImporter:
       name: scifi_space_rpg_tiles_lpcized_2
       rect:
         serializedVersion: 2
-        x: 191
-        y: 0
-        width: 84
-        height: 95
+        x: 110
+        y: 7
+        width: 68
+        height: 82
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,7 +201,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5b116f0993a779548af2593d99493e99
     internalID: 0
     vertices: []
     indices: 
