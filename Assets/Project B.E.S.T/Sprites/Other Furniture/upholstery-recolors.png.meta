@@ -624,7 +624,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -703,9 +703,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 959
-        width: 97
-        height: 65
+        y: 960
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -724,10 +724,10 @@ TextureImporter:
       name: upholstery-recolors_1
       rect:
         serializedVersion: 2
-        x: 3
-        y: 928
-        width: 26
-        height: 33
+        x: 105
+        y: 961
+        width: 46
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -746,10 +746,10 @@ TextureImporter:
       name: upholstery-recolors_2
       rect:
         serializedVersion: 2
-        x: 34
-        y: 927
-        width: 28
-        height: 34
+        x: 160
+        y: 930
+        width: 32
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -768,10 +768,10 @@ TextureImporter:
       name: upholstery-recolors_3
       rect:
         serializedVersion: 2
-        x: 104
-        y: 960
-        width: 48
-        height: 64
+        x: 197
+        y: 928
+        width: 54
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -790,10 +790,10 @@ TextureImporter:
       name: upholstery-recolors_4
       rect:
         serializedVersion: 2
-        x: 159
-        y: 929
-        width: 34
-        height: 95
+        x: 256
+        y: 960
+        width: 96
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -812,10 +812,10 @@ TextureImporter:
       name: upholstery-recolors_5
       rect:
         serializedVersion: 2
-        x: 196
-        y: 927
-        width: 56
-        height: 97
+        x: 361
+        y: 961
+        width: 46
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -834,10 +834,10 @@ TextureImporter:
       name: upholstery-recolors_6
       rect:
         serializedVersion: 2
-        x: 255
-        y: 959
-        width: 98
-        height: 65
+        x: 416
+        y: 930
+        width: 32
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -856,10 +856,10 @@ TextureImporter:
       name: upholstery-recolors_7
       rect:
         serializedVersion: 2
-        x: 259
+        x: 453
         y: 928
-        width: 26
-        height: 33
+        width: 54
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -878,10 +878,10 @@ TextureImporter:
       name: upholstery-recolors_8
       rect:
         serializedVersion: 2
-        x: 290
-        y: 927
-        width: 28
-        height: 34
+        x: 4
+        y: 929
+        width: 24
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -900,10 +900,10 @@ TextureImporter:
       name: upholstery-recolors_9
       rect:
         serializedVersion: 2
-        x: 360
-        y: 960
-        width: 48
-        height: 64
+        x: 35
+        y: 928
+        width: 26
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -922,10 +922,10 @@ TextureImporter:
       name: upholstery-recolors_10
       rect:
         serializedVersion: 2
-        x: 415
+        x: 71
         y: 929
-        width: 34
-        height: 95
+        width: 20
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -944,10 +944,10 @@ TextureImporter:
       name: upholstery-recolors_11
       rect:
         serializedVersion: 2
-        x: 452
-        y: 927
-        width: 56
-        height: 97
+        x: 103
+        y: 929
+        width: 20
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -966,10 +966,10 @@ TextureImporter:
       name: upholstery-recolors_12
       rect:
         serializedVersion: 2
-        x: 70
-        y: 928
-        width: 22
-        height: 30
+        x: 260
+        y: 929
+        width: 24
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -988,10 +988,10 @@ TextureImporter:
       name: upholstery-recolors_13
       rect:
         serializedVersion: 2
-        x: 102
+        x: 291
         y: 928
-        width: 22
-        height: 30
+        width: 26
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1010,10 +1010,10 @@ TextureImporter:
       name: upholstery-recolors_14
       rect:
         serializedVersion: 2
-        x: 159
-        y: 863
-        width: 34
-        height: 66
+        x: 327
+        y: 929
+        width: 20
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1032,10 +1032,10 @@ TextureImporter:
       name: upholstery-recolors_15
       rect:
         serializedVersion: 2
-        x: 319
-        y: 893
-        width: 34
-        height: 36
+        x: 359
+        y: 929
+        width: 20
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1054,10 +1054,10 @@ TextureImporter:
       name: upholstery-recolors_16
       rect:
         serializedVersion: 2
-        x: 326
-        y: 928
-        width: 22
-        height: 30
+        x: 5
+        y: 896
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1076,10 +1076,10 @@ TextureImporter:
       name: upholstery-recolors_17
       rect:
         serializedVersion: 2
-        x: 358
-        y: 928
-        width: 22
-        height: 30
+        x: 37
+        y: 896
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1098,10 +1098,10 @@ TextureImporter:
       name: upholstery-recolors_18
       rect:
         serializedVersion: 2
-        x: 415
-        y: 863
-        width: 34
-        height: 66
+        x: 160
+        y: 864
+        width: 32
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1120,10 +1120,10 @@ TextureImporter:
       name: upholstery-recolors_19
       rect:
         serializedVersion: 2
-        x: 4
-        y: 895
-        width: 26
-        height: 30
+        x: 261
+        y: 896
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1142,10 +1142,10 @@ TextureImporter:
       name: upholstery-recolors_20
       rect:
         serializedVersion: 2
-        x: 36
-        y: 895
-        width: 26
-        height: 30
+        x: 293
+        y: 896
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1164,10 +1164,10 @@ TextureImporter:
       name: upholstery-recolors_21
       rect:
         serializedVersion: 2
-        x: 260
-        y: 895
-        width: 26
-        height: 30
+        x: 320
+        y: 894
+        width: 32
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1186,10 +1186,10 @@ TextureImporter:
       name: upholstery-recolors_22
       rect:
         serializedVersion: 2
-        x: 292
-        y: 895
-        width: 26
-        height: 30
+        x: 416
+        y: 864
+        width: 32
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1208,10 +1208,10 @@ TextureImporter:
       name: upholstery-recolors_23
       rect:
         serializedVersion: 2
-        x: 2
-        y: 703
-        width: 28
-        height: 158
+        x: 3
+        y: 704
+        width: 26
+        height: 156
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1230,10 +1230,10 @@ TextureImporter:
       name: upholstery-recolors_24
       rect:
         serializedVersion: 2
-        x: 36
-        y: 831
-        width: 24
-        height: 34
+        x: 37
+        y: 832
+        width: 22
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1252,10 +1252,10 @@ TextureImporter:
       name: upholstery-recolors_25
       rect:
         serializedVersion: 2
-        x: 67
-        y: 703
-        width: 26
-        height: 178
+        x: 68
+        y: 704
+        width: 24
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1274,10 +1274,10 @@ TextureImporter:
       name: upholstery-recolors_26
       rect:
         serializedVersion: 2
-        x: 97
-        y: 703
-        width: 28
-        height: 162
+        x: 98
+        y: 704
+        width: 26
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1296,10 +1296,10 @@ TextureImporter:
       name: upholstery-recolors_27
       rect:
         serializedVersion: 2
-        x: 127
-        y: 831
-        width: 34
-        height: 34
+        x: 128
+        y: 832
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1318,10 +1318,10 @@ TextureImporter:
       name: upholstery-recolors_28
       rect:
         serializedVersion: 2
-        x: 163
-        y: 832
-        width: 23
-        height: 32
+        x: 164
+        y: 833
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1340,9 +1340,9 @@ TextureImporter:
       name: upholstery-recolors_29
       rect:
         serializedVersion: 2
-        x: 164
-        y: 800
-        width: 23
+        x: 197
+        y: 832
+        width: 52
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1362,10 +1362,10 @@ TextureImporter:
       name: upholstery-recolors_30
       rect:
         serializedVersion: 2
-        x: 196
-        y: 831
-        width: 54
-        height: 34
+        x: 259
+        y: 704
+        width: 26
+        height: 156
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1384,10 +1384,10 @@ TextureImporter:
       name: upholstery-recolors_31
       rect:
         serializedVersion: 2
-        x: 258
-        y: 703
-        width: 28
-        height: 158
+        x: 293
+        y: 832
+        width: 22
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1406,10 +1406,10 @@ TextureImporter:
       name: upholstery-recolors_32
       rect:
         serializedVersion: 2
-        x: 292
-        y: 831
+        x: 324
+        y: 704
         width: 24
-        height: 34
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1428,10 +1428,10 @@ TextureImporter:
       name: upholstery-recolors_33
       rect:
         serializedVersion: 2
-        x: 323
-        y: 703
+        x: 354
+        y: 704
         width: 26
-        height: 162
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1450,10 +1450,10 @@ TextureImporter:
       name: upholstery-recolors_34
       rect:
         serializedVersion: 2
-        x: 353
-        y: 703
-        width: 28
-        height: 162
+        x: 384
+        y: 832
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1472,10 +1472,10 @@ TextureImporter:
       name: upholstery-recolors_35
       rect:
         serializedVersion: 2
-        x: 383
-        y: 831
-        width: 34
-        height: 34
+        x: 420
+        y: 833
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1494,9 +1494,9 @@ TextureImporter:
       name: upholstery-recolors_36
       rect:
         serializedVersion: 2
-        x: 419
+        x: 453
         y: 832
-        width: 23
+        width: 52
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1516,10 +1516,10 @@ TextureImporter:
       name: upholstery-recolors_37
       rect:
         serializedVersion: 2
-        x: 420
+        x: 35
         y: 800
-        width: 23
-        height: 32
+        width: 26
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1538,10 +1538,10 @@ TextureImporter:
       name: upholstery-recolors_38
       rect:
         serializedVersion: 2
-        x: 452
-        y: 831
-        width: 54
-        height: 34
+        x: 128
+        y: 801
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1560,10 +1560,10 @@ TextureImporter:
       name: upholstery-recolors_39
       rect:
         serializedVersion: 2
-        x: 34
-        y: 799
-        width: 28
-        height: 29
+        x: 165
+        y: 801
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1582,10 +1582,10 @@ TextureImporter:
       name: upholstery-recolors_40
       rect:
         serializedVersion: 2
-        x: 127
-        y: 800
-        width: 34
-        height: 31
+        x: 196
+        y: 805
+        width: 57
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1604,10 +1604,10 @@ TextureImporter:
       name: upholstery-recolors_41
       rect:
         serializedVersion: 2
-        x: 195
-        y: 804
-        width: 59
-        height: 24
+        x: 291
+        y: 800
+        width: 26
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1626,9 +1626,9 @@ TextureImporter:
       name: upholstery-recolors_42
       rect:
         serializedVersion: 2
-        x: 290
-        y: 799
-        width: 28
+        x: 384
+        y: 801
+        width: 32
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1648,10 +1648,10 @@ TextureImporter:
       name: upholstery-recolors_43
       rect:
         serializedVersion: 2
-        x: 383
-        y: 800
-        width: 34
-        height: 31
+        x: 421
+        y: 801
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1670,10 +1670,10 @@ TextureImporter:
       name: upholstery-recolors_44
       rect:
         serializedVersion: 2
-        x: 451
-        y: 804
-        width: 59
-        height: 24
+        x: 452
+        y: 805
+        width: 57
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1692,10 +1692,10 @@ TextureImporter:
       name: upholstery-recolors_45
       rect:
         serializedVersion: 2
-        x: 34
-        y: 767
-        width: 28
-        height: 29
+        x: 35
+        y: 768
+        width: 26
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1714,10 +1714,10 @@ TextureImporter:
       name: upholstery-recolors_46
       rect:
         serializedVersion: 2
-        x: 127
-        y: 767
-        width: 66
-        height: 34
+        x: 128
+        y: 768
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1736,10 +1736,10 @@ TextureImporter:
       name: upholstery-recolors_47
       rect:
         serializedVersion: 2
-        x: 127
-        y: 735
-        width: 66
-        height: 32
+        x: 192
+        y: 672
+        width: 32
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1758,10 +1758,10 @@ TextureImporter:
       name: upholstery-recolors_48
       rect:
         serializedVersion: 2
-        x: 191
-        y: 671
-        width: 34
-        height: 130
+        x: 229
+        y: 736
+        width: 27
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1780,10 +1780,10 @@ TextureImporter:
       name: upholstery-recolors_49
       rect:
         serializedVersion: 2
-        x: 228
-        y: 735
-        width: 29
-        height: 66
+        x: 291
+        y: 768
+        width: 26
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1802,10 +1802,10 @@ TextureImporter:
       name: upholstery-recolors_50
       rect:
         serializedVersion: 2
-        x: 290
-        y: 767
-        width: 28
-        height: 29
+        x: 384
+        y: 768
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1824,10 +1824,10 @@ TextureImporter:
       name: upholstery-recolors_51
       rect:
         serializedVersion: 2
-        x: 383
-        y: 767
-        width: 66
-        height: 34
+        x: 448
+        y: 672
+        width: 32
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1846,10 +1846,10 @@ TextureImporter:
       name: upholstery-recolors_52
       rect:
         serializedVersion: 2
-        x: 383
-        y: 735
-        width: 66
-        height: 32
+        x: 485
+        y: 736
+        width: 27
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1868,10 +1868,10 @@ TextureImporter:
       name: upholstery-recolors_53
       rect:
         serializedVersion: 2
-        x: 447
-        y: 671
-        width: 34
-        height: 130
+        x: 36
+        y: 736
+        width: 24
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1890,10 +1890,10 @@ TextureImporter:
       name: upholstery-recolors_54
       rect:
         serializedVersion: 2
-        x: 484
-        y: 735
-        width: 28
-        height: 66
+        x: 128
+        y: 736
+        width: 64
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1912,10 +1912,10 @@ TextureImporter:
       name: upholstery-recolors_55
       rect:
         serializedVersion: 2
-        x: 35
-        y: 735
-        width: 26
-        height: 29
+        x: 292
+        y: 736
+        width: 24
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1934,10 +1934,10 @@ TextureImporter:
       name: upholstery-recolors_56
       rect:
         serializedVersion: 2
-        x: 291
-        y: 735
-        width: 26
-        height: 29
+        x: 384
+        y: 736
+        width: 64
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1956,10 +1956,10 @@ TextureImporter:
       name: upholstery-recolors_57
       rect:
         serializedVersion: 2
-        x: 35
-        y: 703
-        width: 26
-        height: 29
+        x: 36
+        y: 704
+        width: 24
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1978,10 +1978,10 @@ TextureImporter:
       name: upholstery-recolors_58
       rect:
         serializedVersion: 2
-        x: 132
-        y: 709
-        width: 26
-        height: 20
+        x: 133
+        y: 710
+        width: 24
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2000,10 +2000,10 @@ TextureImporter:
       name: upholstery-recolors_59
       rect:
         serializedVersion: 2
-        x: 162
-        y: 710
-        width: 28
-        height: 17
+        x: 163
+        y: 711
+        width: 26
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2022,10 +2022,10 @@ TextureImporter:
       name: upholstery-recolors_60
       rect:
         serializedVersion: 2
-        x: 228
-        y: 706
-        width: 26
-        height: 23
+        x: 229
+        y: 707
+        width: 24
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2044,10 +2044,10 @@ TextureImporter:
       name: upholstery-recolors_61
       rect:
         serializedVersion: 2
-        x: 291
-        y: 703
-        width: 26
-        height: 29
+        x: 292
+        y: 704
+        width: 24
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2066,10 +2066,10 @@ TextureImporter:
       name: upholstery-recolors_62
       rect:
         serializedVersion: 2
-        x: 388
-        y: 709
-        width: 26
-        height: 20
+        x: 389
+        y: 710
+        width: 24
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2088,10 +2088,10 @@ TextureImporter:
       name: upholstery-recolors_63
       rect:
         serializedVersion: 2
-        x: 418
-        y: 710
-        width: 28
-        height: 17
+        x: 419
+        y: 711
+        width: 26
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2110,10 +2110,10 @@ TextureImporter:
       name: upholstery-recolors_64
       rect:
         serializedVersion: 2
-        x: 484
-        y: 706
-        width: 26
-        height: 23
+        x: 485
+        y: 707
+        width: 24
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2133,9 +2133,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 655
-        width: 64
-        height: 33
+        y: 656
+        width: 63
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2154,10 +2154,10 @@ TextureImporter:
       name: upholstery-recolors_66
       rect:
         serializedVersion: 2
-        x: 63
-        y: 575
-        width: 64
-        height: 130
+        x: 64
+        y: 576
+        width: 62
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2176,10 +2176,10 @@ TextureImporter:
       name: upholstery-recolors_67
       rect:
         serializedVersion: 2
-        x: 126
-        y: 654
-        width: 66
-        height: 42
+        x: 127
+        y: 655
+        width: 64
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2198,10 +2198,10 @@ TextureImporter:
       name: upholstery-recolors_68
       rect:
         serializedVersion: 2
-        x: 223
-        y: 640
-        width: 97
-        height: 48
+        x: 224
+        y: 641
+        width: 95
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2220,10 +2220,10 @@ TextureImporter:
       name: upholstery-recolors_69
       rect:
         serializedVersion: 2
-        x: 228
-        y: 677
-        width: 26
-        height: 24
+        x: 229
+        y: 678
+        width: 24
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2242,10 +2242,10 @@ TextureImporter:
       name: upholstery-recolors_70
       rect:
         serializedVersion: 2
-        x: 319
-        y: 575
-        width: 64
-        height: 130
+        x: 320
+        y: 576
+        width: 62
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2264,10 +2264,10 @@ TextureImporter:
       name: upholstery-recolors_71
       rect:
         serializedVersion: 2
-        x: 382
-        y: 654
-        width: 66
-        height: 42
+        x: 383
+        y: 655
+        width: 64
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2286,10 +2286,10 @@ TextureImporter:
       name: upholstery-recolors_72
       rect:
         serializedVersion: 2
-        x: 484
-        y: 677
-        width: 26
-        height: 24
+        x: 485
+        y: 678
+        width: 24
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2308,10 +2308,10 @@ TextureImporter:
       name: upholstery-recolors_73
       rect:
         serializedVersion: 2
-        x: 0
-        y: 607
-        width: 33
-        height: 34
+        x: 192
+        y: 576
+        width: 58
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2330,10 +2330,10 @@ TextureImporter:
       name: upholstery-recolors_74
       rect:
         serializedVersion: 2
-        x: 37
-        y: 608
-        width: 23
-        height: 32
+        x: 448
+        y: 576
+        width: 58
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2352,10 +2352,10 @@ TextureImporter:
       name: upholstery-recolors_75
       rect:
         serializedVersion: 2
-        x: 127
-        y: 575
-        width: 60
-        height: 66
+        x: 480
+        y: 641
+        width: 32
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2374,10 +2374,10 @@ TextureImporter:
       name: upholstery-recolors_76
       rect:
         serializedVersion: 2
-        x: 191
-        y: 575
-        width: 60
-        height: 98
+        x: 0
+        y: 608
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2396,10 +2396,10 @@ TextureImporter:
       name: upholstery-recolors_77
       rect:
         serializedVersion: 2
-        x: 255
-        y: 607
-        width: 34
-        height: 34
+        x: 38
+        y: 609
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2418,10 +2418,10 @@ TextureImporter:
       name: upholstery-recolors_78
       rect:
         serializedVersion: 2
-        x: 293
-        y: 608
-        width: 23
-        height: 32
+        x: 128
+        y: 576
+        width: 58
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2440,10 +2440,10 @@ TextureImporter:
       name: upholstery-recolors_79
       rect:
         serializedVersion: 2
-        x: 383
-        y: 575
-        width: 60
-        height: 66
+        x: 256
+        y: 608
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2462,10 +2462,10 @@ TextureImporter:
       name: upholstery-recolors_80
       rect:
         serializedVersion: 2
-        x: 447
-        y: 575
-        width: 60
-        height: 98
+        x: 294
+        y: 609
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2484,10 +2484,10 @@ TextureImporter:
       name: upholstery-recolors_81
       rect:
         serializedVersion: 2
-        x: 479
-        y: 640
-        width: 33
-        height: 32
+        x: 384
+        y: 576
+        width: 58
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2507,9 +2507,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 479
-        width: 97
-        height: 127
+        y: 480
+        width: 96
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2528,10 +2528,10 @@ TextureImporter:
       name: upholstery-recolors_83
       rect:
         serializedVersion: 2
-        x: 37
-        y: 576
-        width: 23
-        height: 32
+        x: 38
+        y: 577
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2550,10 +2550,10 @@ TextureImporter:
       name: upholstery-recolors_84
       rect:
         serializedVersion: 2
-        x: 100
-        y: 544
-        width: 23
-        height: 32
+        x: 256
+        y: 480
+        width: 96
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2572,10 +2572,10 @@ TextureImporter:
       name: upholstery-recolors_85
       rect:
         serializedVersion: 2
-        x: 164
-        y: 544
-        width: 23
-        height: 32
+        x: 294
+        y: 577
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2594,10 +2594,10 @@ TextureImporter:
       name: upholstery-recolors_86
       rect:
         serializedVersion: 2
-        x: 228
-        y: 544
-        width: 23
-        height: 32
+        x: 101
+        y: 545
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2616,10 +2616,10 @@ TextureImporter:
       name: upholstery-recolors_87
       rect:
         serializedVersion: 2
-        x: 255
-        y: 479
-        width: 98
-        height: 127
+        x: 128
+        y: 545
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2638,10 +2638,10 @@ TextureImporter:
       name: upholstery-recolors_88
       rect:
         serializedVersion: 2
-        x: 293
-        y: 576
-        width: 23
-        height: 32
+        x: 165
+        y: 545
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2660,10 +2660,10 @@ TextureImporter:
       name: upholstery-recolors_89
       rect:
         serializedVersion: 2
-        x: 356
-        y: 544
-        width: 23
-        height: 32
+        x: 192
+        y: 545
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2682,10 +2682,10 @@ TextureImporter:
       name: upholstery-recolors_90
       rect:
         serializedVersion: 2
-        x: 420
-        y: 544
-        width: 23
-        height: 32
+        x: 229
+        y: 545
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2704,10 +2704,10 @@ TextureImporter:
       name: upholstery-recolors_91
       rect:
         serializedVersion: 2
-        x: 484
-        y: 544
-        width: 23
-        height: 32
+        x: 357
+        y: 545
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2726,10 +2726,10 @@ TextureImporter:
       name: upholstery-recolors_92
       rect:
         serializedVersion: 2
-        x: 104
-        y: 480
-        width: 48
-        height: 65
+        x: 384
+        y: 545
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2748,10 +2748,10 @@ TextureImporter:
       name: upholstery-recolors_93
       rect:
         serializedVersion: 2
-        x: 127
-        y: 544
-        width: 34
-        height: 31
+        x: 421
+        y: 545
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2770,10 +2770,10 @@ TextureImporter:
       name: upholstery-recolors_94
       rect:
         serializedVersion: 2
-        x: 159
-        y: 449
-        width: 34
-        height: 96
+        x: 448
+        y: 545
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2792,10 +2792,10 @@ TextureImporter:
       name: upholstery-recolors_95
       rect:
         serializedVersion: 2
-        x: 191
-        y: 544
-        width: 34
-        height: 31
+        x: 485
+        y: 545
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2814,10 +2814,10 @@ TextureImporter:
       name: upholstery-recolors_96
       rect:
         serializedVersion: 2
-        x: 196
-        y: 447
-        width: 56
-        height: 97
+        x: 105
+        y: 481
+        width: 46
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2836,10 +2836,10 @@ TextureImporter:
       name: upholstery-recolors_97
       rect:
         serializedVersion: 2
-        x: 360
-        y: 480
-        width: 48
-        height: 65
+        x: 160
+        y: 450
+        width: 32
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2858,10 +2858,10 @@ TextureImporter:
       name: upholstery-recolors_98
       rect:
         serializedVersion: 2
-        x: 383
-        y: 544
-        width: 34
-        height: 31
+        x: 197
+        y: 448
+        width: 54
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2880,10 +2880,10 @@ TextureImporter:
       name: upholstery-recolors_99
       rect:
         serializedVersion: 2
-        x: 415
-        y: 449
-        width: 34
-        height: 96
+        x: 361
+        y: 481
+        width: 46
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2902,10 +2902,10 @@ TextureImporter:
       name: upholstery-recolors_100
       rect:
         serializedVersion: 2
-        x: 447
-        y: 544
-        width: 34
-        height: 31
+        x: 416
+        y: 450
+        width: 32
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2924,10 +2924,10 @@ TextureImporter:
       name: upholstery-recolors_101
       rect:
         serializedVersion: 2
-        x: 452
-        y: 447
-        width: 56
-        height: 97
+        x: 453
+        y: 448
+        width: 54
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2946,10 +2946,10 @@ TextureImporter:
       name: upholstery-recolors_102
       rect:
         serializedVersion: 2
-        x: 3
-        y: 448
-        width: 26
-        height: 33
+        x: 4
+        y: 449
+        width: 24
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2968,10 +2968,10 @@ TextureImporter:
       name: upholstery-recolors_103
       rect:
         serializedVersion: 2
-        x: 34
-        y: 447
-        width: 28
-        height: 34
+        x: 35
+        y: 448
+        width: 26
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2990,10 +2990,10 @@ TextureImporter:
       name: upholstery-recolors_104
       rect:
         serializedVersion: 2
-        x: 63
-        y: 415
-        width: 34
-        height: 34
+        x: 71
+        y: 449
+        width: 20
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3012,10 +3012,10 @@ TextureImporter:
       name: upholstery-recolors_105
       rect:
         serializedVersion: 2
-        x: 70
-        y: 448
-        width: 22
-        height: 30
+        x: 103
+        y: 449
+        width: 20
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3034,10 +3034,10 @@ TextureImporter:
       name: upholstery-recolors_106
       rect:
         serializedVersion: 2
-        x: 102
-        y: 448
-        width: 22
-        height: 30
+        x: 260
+        y: 449
+        width: 24
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3056,10 +3056,10 @@ TextureImporter:
       name: upholstery-recolors_107
       rect:
         serializedVersion: 2
-        x: 159
-        y: 383
-        width: 34
-        height: 66
+        x: 291
+        y: 448
+        width: 26
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3078,10 +3078,10 @@ TextureImporter:
       name: upholstery-recolors_108
       rect:
         serializedVersion: 2
-        x: 259
-        y: 448
-        width: 26
-        height: 33
+        x: 327
+        y: 449
+        width: 20
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3100,10 +3100,10 @@ TextureImporter:
       name: upholstery-recolors_109
       rect:
         serializedVersion: 2
-        x: 290
-        y: 447
-        width: 28
-        height: 34
+        x: 359
+        y: 449
+        width: 20
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3122,10 +3122,10 @@ TextureImporter:
       name: upholstery-recolors_110
       rect:
         serializedVersion: 2
-        x: 326
-        y: 448
-        width: 22
-        height: 30
+        x: 5
+        y: 416
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3144,10 +3144,10 @@ TextureImporter:
       name: upholstery-recolors_111
       rect:
         serializedVersion: 2
-        x: 358
-        y: 448
-        width: 22
-        height: 30
+        x: 37
+        y: 416
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3166,10 +3166,10 @@ TextureImporter:
       name: upholstery-recolors_112
       rect:
         serializedVersion: 2
-        x: 415
-        y: 383
-        width: 34
-        height: 66
+        x: 64
+        y: 416
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3188,10 +3188,10 @@ TextureImporter:
       name: upholstery-recolors_113
       rect:
         serializedVersion: 2
-        x: 4
-        y: 415
-        width: 26
-        height: 30
+        x: 160
+        y: 384
+        width: 32
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3210,10 +3210,10 @@ TextureImporter:
       name: upholstery-recolors_114
       rect:
         serializedVersion: 2
-        x: 36
-        y: 415
-        width: 26
-        height: 30
+        x: 261
+        y: 416
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3232,10 +3232,10 @@ TextureImporter:
       name: upholstery-recolors_115
       rect:
         serializedVersion: 2
-        x: 260
-        y: 415
-        width: 26
-        height: 30
+        x: 293
+        y: 416
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3254,10 +3254,10 @@ TextureImporter:
       name: upholstery-recolors_116
       rect:
         serializedVersion: 2
-        x: 292
-        y: 415
-        width: 26
-        height: 30
+        x: 416
+        y: 384
+        width: 32
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3276,10 +3276,10 @@ TextureImporter:
       name: upholstery-recolors_117
       rect:
         serializedVersion: 2
-        x: 2
-        y: 223
-        width: 28
-        height: 158
+        x: 3
+        y: 224
+        width: 26
+        height: 156
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3298,10 +3298,10 @@ TextureImporter:
       name: upholstery-recolors_118
       rect:
         serializedVersion: 2
-        x: 36
-        y: 351
-        width: 24
-        height: 34
+        x: 37
+        y: 352
+        width: 22
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3320,10 +3320,10 @@ TextureImporter:
       name: upholstery-recolors_119
       rect:
         serializedVersion: 2
-        x: 67
-        y: 223
-        width: 26
-        height: 179
+        x: 68
+        y: 224
+        width: 24
+        height: 177
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3342,10 +3342,10 @@ TextureImporter:
       name: upholstery-recolors_120
       rect:
         serializedVersion: 2
-        x: 97
-        y: 223
-        width: 28
-        height: 162
+        x: 98
+        y: 224
+        width: 26
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3364,10 +3364,10 @@ TextureImporter:
       name: upholstery-recolors_121
       rect:
         serializedVersion: 2
-        x: 127
-        y: 351
-        width: 34
-        height: 34
+        x: 128
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3386,10 +3386,10 @@ TextureImporter:
       name: upholstery-recolors_122
       rect:
         serializedVersion: 2
-        x: 163
-        y: 352
-        width: 23
-        height: 32
+        x: 164
+        y: 353
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3408,9 +3408,9 @@ TextureImporter:
       name: upholstery-recolors_123
       rect:
         serializedVersion: 2
-        x: 164
-        y: 320
-        width: 23
+        x: 197
+        y: 352
+        width: 52
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3430,10 +3430,10 @@ TextureImporter:
       name: upholstery-recolors_124
       rect:
         serializedVersion: 2
-        x: 196
-        y: 351
-        width: 54
-        height: 34
+        x: 259
+        y: 224
+        width: 26
+        height: 156
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3452,10 +3452,10 @@ TextureImporter:
       name: upholstery-recolors_125
       rect:
         serializedVersion: 2
-        x: 258
-        y: 223
-        width: 28
-        height: 158
+        x: 293
+        y: 352
+        width: 22
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3474,10 +3474,10 @@ TextureImporter:
       name: upholstery-recolors_126
       rect:
         serializedVersion: 2
-        x: 292
-        y: 351
+        x: 324
+        y: 224
         width: 24
-        height: 34
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3496,10 +3496,10 @@ TextureImporter:
       name: upholstery-recolors_127
       rect:
         serializedVersion: 2
-        x: 323
-        y: 223
+        x: 354
+        y: 224
         width: 26
-        height: 178
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3518,10 +3518,10 @@ TextureImporter:
       name: upholstery-recolors_128
       rect:
         serializedVersion: 2
-        x: 353
-        y: 223
-        width: 28
-        height: 162
+        x: 384
+        y: 352
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3540,10 +3540,10 @@ TextureImporter:
       name: upholstery-recolors_129
       rect:
         serializedVersion: 2
-        x: 383
-        y: 351
-        width: 34
-        height: 34
+        x: 420
+        y: 353
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3562,9 +3562,9 @@ TextureImporter:
       name: upholstery-recolors_130
       rect:
         serializedVersion: 2
-        x: 419
+        x: 453
         y: 352
-        width: 23
+        width: 52
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3584,10 +3584,10 @@ TextureImporter:
       name: upholstery-recolors_131
       rect:
         serializedVersion: 2
-        x: 420
+        x: 35
         y: 320
-        width: 23
-        height: 32
+        width: 26
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3606,10 +3606,10 @@ TextureImporter:
       name: upholstery-recolors_132
       rect:
         serializedVersion: 2
-        x: 452
-        y: 351
-        width: 54
-        height: 34
+        x: 128
+        y: 321
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3628,10 +3628,10 @@ TextureImporter:
       name: upholstery-recolors_133
       rect:
         serializedVersion: 2
-        x: 34
-        y: 319
-        width: 28
-        height: 29
+        x: 165
+        y: 321
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3650,10 +3650,10 @@ TextureImporter:
       name: upholstery-recolors_134
       rect:
         serializedVersion: 2
-        x: 127
-        y: 320
-        width: 34
-        height: 31
+        x: 196
+        y: 325
+        width: 57
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3672,10 +3672,10 @@ TextureImporter:
       name: upholstery-recolors_135
       rect:
         serializedVersion: 2
-        x: 195
-        y: 324
-        width: 59
-        height: 24
+        x: 291
+        y: 320
+        width: 26
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3694,9 +3694,9 @@ TextureImporter:
       name: upholstery-recolors_136
       rect:
         serializedVersion: 2
-        x: 290
-        y: 319
-        width: 28
+        x: 384
+        y: 321
+        width: 32
         height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3716,10 +3716,10 @@ TextureImporter:
       name: upholstery-recolors_137
       rect:
         serializedVersion: 2
-        x: 383
-        y: 320
-        width: 34
-        height: 31
+        x: 421
+        y: 321
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3738,10 +3738,10 @@ TextureImporter:
       name: upholstery-recolors_138
       rect:
         serializedVersion: 2
-        x: 451
-        y: 324
-        width: 59
-        height: 24
+        x: 452
+        y: 325
+        width: 57
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3760,10 +3760,10 @@ TextureImporter:
       name: upholstery-recolors_139
       rect:
         serializedVersion: 2
-        x: 34
-        y: 287
-        width: 28
-        height: 29
+        x: 35
+        y: 288
+        width: 26
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3782,10 +3782,10 @@ TextureImporter:
       name: upholstery-recolors_140
       rect:
         serializedVersion: 2
-        x: 127
-        y: 287
-        width: 66
-        height: 34
+        x: 128
+        y: 288
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3804,10 +3804,10 @@ TextureImporter:
       name: upholstery-recolors_141
       rect:
         serializedVersion: 2
-        x: 127
-        y: 255
-        width: 66
-        height: 32
+        x: 192
+        y: 192
+        width: 32
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3826,10 +3826,10 @@ TextureImporter:
       name: upholstery-recolors_142
       rect:
         serializedVersion: 2
-        x: 191
-        y: 191
-        width: 34
-        height: 130
+        x: 229
+        y: 256
+        width: 27
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3848,10 +3848,10 @@ TextureImporter:
       name: upholstery-recolors_143
       rect:
         serializedVersion: 2
-        x: 228
-        y: 255
-        width: 29
-        height: 66
+        x: 291
+        y: 288
+        width: 26
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3870,10 +3870,10 @@ TextureImporter:
       name: upholstery-recolors_144
       rect:
         serializedVersion: 2
-        x: 290
-        y: 287
-        width: 28
-        height: 29
+        x: 384
+        y: 288
+        width: 64
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3892,10 +3892,10 @@ TextureImporter:
       name: upholstery-recolors_145
       rect:
         serializedVersion: 2
-        x: 383
-        y: 287
-        width: 66
-        height: 34
+        x: 448
+        y: 192
+        width: 32
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3914,10 +3914,10 @@ TextureImporter:
       name: upholstery-recolors_146
       rect:
         serializedVersion: 2
-        x: 383
-        y: 255
-        width: 66
-        height: 32
+        x: 485
+        y: 256
+        width: 27
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3936,10 +3936,10 @@ TextureImporter:
       name: upholstery-recolors_147
       rect:
         serializedVersion: 2
-        x: 447
-        y: 191
-        width: 34
-        height: 130
+        x: 36
+        y: 256
+        width: 24
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3958,10 +3958,10 @@ TextureImporter:
       name: upholstery-recolors_148
       rect:
         serializedVersion: 2
-        x: 484
-        y: 255
-        width: 28
-        height: 66
+        x: 128
+        y: 256
+        width: 64
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3980,10 +3980,10 @@ TextureImporter:
       name: upholstery-recolors_149
       rect:
         serializedVersion: 2
-        x: 35
-        y: 255
-        width: 26
-        height: 29
+        x: 292
+        y: 256
+        width: 24
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4002,10 +4002,10 @@ TextureImporter:
       name: upholstery-recolors_150
       rect:
         serializedVersion: 2
-        x: 291
-        y: 255
-        width: 26
-        height: 29
+        x: 384
+        y: 256
+        width: 64
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4024,10 +4024,10 @@ TextureImporter:
       name: upholstery-recolors_151
       rect:
         serializedVersion: 2
-        x: 35
-        y: 223
-        width: 26
-        height: 29
+        x: 36
+        y: 224
+        width: 24
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4046,10 +4046,10 @@ TextureImporter:
       name: upholstery-recolors_152
       rect:
         serializedVersion: 2
-        x: 132
-        y: 229
-        width: 26
-        height: 20
+        x: 133
+        y: 230
+        width: 24
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4068,10 +4068,10 @@ TextureImporter:
       name: upholstery-recolors_153
       rect:
         serializedVersion: 2
-        x: 162
-        y: 230
-        width: 28
-        height: 17
+        x: 163
+        y: 231
+        width: 26
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4090,10 +4090,10 @@ TextureImporter:
       name: upholstery-recolors_154
       rect:
         serializedVersion: 2
-        x: 228
-        y: 226
-        width: 26
-        height: 23
+        x: 229
+        y: 227
+        width: 24
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4112,10 +4112,10 @@ TextureImporter:
       name: upholstery-recolors_155
       rect:
         serializedVersion: 2
-        x: 291
-        y: 223
-        width: 26
-        height: 29
+        x: 292
+        y: 224
+        width: 24
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4134,10 +4134,10 @@ TextureImporter:
       name: upholstery-recolors_156
       rect:
         serializedVersion: 2
-        x: 388
-        y: 229
-        width: 26
-        height: 20
+        x: 389
+        y: 230
+        width: 24
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4156,10 +4156,10 @@ TextureImporter:
       name: upholstery-recolors_157
       rect:
         serializedVersion: 2
-        x: 418
-        y: 230
-        width: 28
-        height: 17
+        x: 419
+        y: 231
+        width: 26
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4178,10 +4178,10 @@ TextureImporter:
       name: upholstery-recolors_158
       rect:
         serializedVersion: 2
-        x: 484
-        y: 226
-        width: 26
-        height: 23
+        x: 485
+        y: 227
+        width: 24
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4201,9 +4201,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 175
-        width: 64
-        height: 33
+        y: 176
+        width: 63
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4222,10 +4222,10 @@ TextureImporter:
       name: upholstery-recolors_160
       rect:
         serializedVersion: 2
-        x: 63
-        y: 95
-        width: 64
-        height: 130
+        x: 64
+        y: 96
+        width: 62
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4244,10 +4244,10 @@ TextureImporter:
       name: upholstery-recolors_161
       rect:
         serializedVersion: 2
-        x: 126
-        y: 174
-        width: 66
-        height: 42
+        x: 127
+        y: 175
+        width: 64
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4266,10 +4266,10 @@ TextureImporter:
       name: upholstery-recolors_162
       rect:
         serializedVersion: 2
-        x: 223
-        y: 160
-        width: 97
-        height: 48
+        x: 224
+        y: 161
+        width: 95
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4288,10 +4288,10 @@ TextureImporter:
       name: upholstery-recolors_163
       rect:
         serializedVersion: 2
-        x: 228
-        y: 197
-        width: 26
-        height: 24
+        x: 229
+        y: 198
+        width: 24
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4310,10 +4310,10 @@ TextureImporter:
       name: upholstery-recolors_164
       rect:
         serializedVersion: 2
-        x: 319
-        y: 95
-        width: 64
-        height: 130
+        x: 320
+        y: 96
+        width: 62
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4332,10 +4332,10 @@ TextureImporter:
       name: upholstery-recolors_165
       rect:
         serializedVersion: 2
-        x: 382
-        y: 174
-        width: 66
-        height: 42
+        x: 383
+        y: 175
+        width: 64
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4354,10 +4354,10 @@ TextureImporter:
       name: upholstery-recolors_166
       rect:
         serializedVersion: 2
-        x: 484
-        y: 197
-        width: 26
-        height: 24
+        x: 485
+        y: 198
+        width: 24
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4376,10 +4376,10 @@ TextureImporter:
       name: upholstery-recolors_167
       rect:
         serializedVersion: 2
-        x: 0
-        y: 127
-        width: 33
-        height: 34
+        x: 192
+        y: 96
+        width: 58
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4398,10 +4398,10 @@ TextureImporter:
       name: upholstery-recolors_168
       rect:
         serializedVersion: 2
-        x: 37
-        y: 128
-        width: 23
-        height: 32
+        x: 448
+        y: 96
+        width: 58
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4420,10 +4420,10 @@ TextureImporter:
       name: upholstery-recolors_169
       rect:
         serializedVersion: 2
-        x: 127
-        y: 95
-        width: 60
-        height: 66
+        x: 480
+        y: 161
+        width: 32
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4442,10 +4442,10 @@ TextureImporter:
       name: upholstery-recolors_170
       rect:
         serializedVersion: 2
-        x: 191
-        y: 95
-        width: 60
-        height: 98
+        x: 0
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4464,10 +4464,10 @@ TextureImporter:
       name: upholstery-recolors_171
       rect:
         serializedVersion: 2
-        x: 255
-        y: 127
-        width: 34
-        height: 34
+        x: 38
+        y: 129
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4486,10 +4486,10 @@ TextureImporter:
       name: upholstery-recolors_172
       rect:
         serializedVersion: 2
-        x: 293
-        y: 128
-        width: 23
-        height: 32
+        x: 128
+        y: 96
+        width: 58
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4508,10 +4508,10 @@ TextureImporter:
       name: upholstery-recolors_173
       rect:
         serializedVersion: 2
-        x: 383
-        y: 95
-        width: 60
-        height: 66
+        x: 256
+        y: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4530,10 +4530,10 @@ TextureImporter:
       name: upholstery-recolors_174
       rect:
         serializedVersion: 2
-        x: 447
-        y: 95
-        width: 60
-        height: 98
+        x: 294
+        y: 129
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4552,10 +4552,10 @@ TextureImporter:
       name: upholstery-recolors_175
       rect:
         serializedVersion: 2
-        x: 479
-        y: 160
-        width: 33
-        height: 32
+        x: 384
+        y: 96
+        width: 58
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4575,9 +4575,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 63
-        width: 59
-        height: 63
+        y: 64
+        width: 58
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4596,10 +4596,10 @@ TextureImporter:
       name: upholstery-recolors_177
       rect:
         serializedVersion: 2
-        x: 37
-        y: 96
-        width: 23
-        height: 32
+        x: 38
+        y: 97
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4618,10 +4618,10 @@ TextureImporter:
       name: upholstery-recolors_178
       rect:
         serializedVersion: 2
-        x: 100
+        x: 256
         y: 64
-        width: 23
-        height: 32
+        width: 58
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4640,10 +4640,10 @@ TextureImporter:
       name: upholstery-recolors_179
       rect:
         serializedVersion: 2
-        x: 164
-        y: 64
-        width: 23
-        height: 32
+        x: 294
+        y: 97
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4662,10 +4662,10 @@ TextureImporter:
       name: upholstery-recolors_180
       rect:
         serializedVersion: 2
-        x: 228
-        y: 64
-        width: 23
-        height: 32
+        x: 64
+        y: 65
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4684,10 +4684,10 @@ TextureImporter:
       name: upholstery-recolors_181
       rect:
         serializedVersion: 2
-        x: 255
-        y: 63
-        width: 60
-        height: 63
+        x: 101
+        y: 65
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4706,10 +4706,10 @@ TextureImporter:
       name: upholstery-recolors_182
       rect:
         serializedVersion: 2
-        x: 293
-        y: 96
-        width: 23
-        height: 32
+        x: 128
+        y: 65
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4728,10 +4728,10 @@ TextureImporter:
       name: upholstery-recolors_183
       rect:
         serializedVersion: 2
-        x: 356
-        y: 64
-        width: 23
-        height: 32
+        x: 165
+        y: 65
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4750,10 +4750,10 @@ TextureImporter:
       name: upholstery-recolors_184
       rect:
         serializedVersion: 2
-        x: 420
-        y: 64
-        width: 23
-        height: 32
+        x: 192
+        y: 65
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4772,10 +4772,10 @@ TextureImporter:
       name: upholstery-recolors_185
       rect:
         serializedVersion: 2
-        x: 484
-        y: 64
-        width: 23
-        height: 32
+        x: 229
+        y: 65
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4794,10 +4794,10 @@ TextureImporter:
       name: upholstery-recolors_186
       rect:
         serializedVersion: 2
-        x: 63
-        y: 64
-        width: 34
-        height: 31
+        x: 320
+        y: 65
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4816,10 +4816,10 @@ TextureImporter:
       name: upholstery-recolors_187
       rect:
         serializedVersion: 2
-        x: 127
-        y: 64
-        width: 34
-        height: 31
+        x: 357
+        y: 65
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4838,10 +4838,10 @@ TextureImporter:
       name: upholstery-recolors_188
       rect:
         serializedVersion: 2
-        x: 191
-        y: 64
-        width: 34
-        height: 31
+        x: 384
+        y: 65
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4860,10 +4860,10 @@ TextureImporter:
       name: upholstery-recolors_189
       rect:
         serializedVersion: 2
-        x: 319
-        y: 64
-        width: 34
-        height: 31
+        x: 421
+        y: 65
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4882,10 +4882,10 @@ TextureImporter:
       name: upholstery-recolors_190
       rect:
         serializedVersion: 2
-        x: 383
-        y: 64
-        width: 34
-        height: 31
+        x: 448
+        y: 65
+        width: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4904,10 +4904,10 @@ TextureImporter:
       name: upholstery-recolors_191
       rect:
         serializedVersion: 2
-        x: 447
-        y: 64
-        width: 34
-        height: 31
+        x: 485
+        y: 65
+        width: 21
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4926,7 +4926,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6cf81a374d2e5854d8975edf740be9ac
     internalID: 0
     vertices: []
     indices: 
