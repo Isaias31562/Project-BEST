@@ -1060,7 +1060,44 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      scifi_hackspace_frama_0: 9220661305815520934
+      scifi_hackspace_frama_1: 2898623204913320658
+      scifi_hackspace_frama_10: 283256914877704438
+      scifi_hackspace_frama_11: -4393561206609339536
+      scifi_hackspace_frama_12: -8095861194840716178
+      scifi_hackspace_frama_13: -4977441925710327734
+      scifi_hackspace_frama_14: 4559124875102259298
+      scifi_hackspace_frama_15: 4257798881665302237
+      scifi_hackspace_frama_16: -5147689748423210586
+      scifi_hackspace_frama_17: 4554500903704571746
+      scifi_hackspace_frama_18: -4226356642596660180
+      scifi_hackspace_frama_19: -33341525285283030
+      scifi_hackspace_frama_2: 2944878976003346980
+      scifi_hackspace_frama_20: 5623235317747165031
+      scifi_hackspace_frama_21: -7791487483072884955
+      scifi_hackspace_frama_22: -933993321120555999
+      scifi_hackspace_frama_23: -4640215752634225546
+      scifi_hackspace_frama_24: 6732197036898931761
+      scifi_hackspace_frama_25: -4815577485103163963
+      scifi_hackspace_frama_26: -4383083464432875533
+      scifi_hackspace_frama_27: 5645147501017077015
+      scifi_hackspace_frama_28: -2007750048239193567
+      scifi_hackspace_frama_29: -85185229182700641
+      scifi_hackspace_frama_3: 888632773859142873
+      scifi_hackspace_frama_30: 8013851310934033122
+      scifi_hackspace_frama_31: 7742224105118827277
+      scifi_hackspace_frama_32: 5429908595320716947
+      scifi_hackspace_frama_33: 4137376433114223880
+      scifi_hackspace_frama_34: -362609064882824514
+      scifi_hackspace_frama_35: 962899454985289139
+      scifi_hackspace_frama_36: 8704936741357377812
+      scifi_hackspace_frama_4: 3652023216623772660
+      scifi_hackspace_frama_5: 3894011494181911471
+      scifi_hackspace_frama_6: 806039909431163353
+      scifi_hackspace_frama_7: 6001507237021121509
+      scifi_hackspace_frama_8: -623081929576648773
+      scifi_hackspace_frama_9: -8720704329467715444
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

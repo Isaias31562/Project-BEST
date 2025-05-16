@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      assaultrifle2_0: -4412131946351795521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

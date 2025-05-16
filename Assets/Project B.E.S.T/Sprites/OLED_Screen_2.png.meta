@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OLED_Screen_2_0: -4083391692785958840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
