@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 3f2aea70f3b17ed4c8caf82973f4d6bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6088694124363330113
+    second: Walking Man - Right_0
+  - first:
+      213: -7772909482616810751
+    second: Walking Man - Right_1
+  - first:
+      213: 2084448383455371015
+    second: Walking Man - Right_2
+  - first:
+      213: -4289187166114200422
+    second: Walking Man - Right_3
+  - first:
+      213: -8025734934951860492
+    second: Walking Man - Right_4
+  - first:
+      213: 2761988872110617520
+    second: Walking Man - Right_5
+  - first:
+      213: 4447068817107747775
+    second: Walking Man - Right_6
+  - first:
+      213: 2390529344782939181
+    second: Walking Man - Right_7
+  - first:
+      213: -8740141035927689606
+    second: Walking Man - Right_8
+  - first:
+      213: -8993294029947996561
+    second: Walking Man - Right_9
+  - first:
+      213: 6555231488953417279
+    second: Walking Man - Right_10
+  - first:
+      213: -5039730832954355080
+    second: Walking Man - Right_11
+  - first:
+      213: 8457113266036310830
+    second: Walking Man - Right_12
+  - first:
+      213: 8982057393184528428
+    second: Walking Man - Right_13
+  - first:
+      213: 2572036653030936107
+    second: Walking Man - Right_14
+  - first:
+      213: 8188757983597651302
+    second: Walking Man - Right_15
+  - first:
+      213: -1271124433131079347
+    second: Walking Man - Right_16
+  - first:
+      213: -2863645277494126387
+    second: Walking Man - Right_17
+  - first:
+      213: -6056038122267771884
+    second: Walking Man - Right_18
+  - first:
+      213: -5920625172206966789
+    second: Walking Man - Right_19
+  - first:
+      213: 3197687247269812140
+    second: Walking Man - Right_20
+  - first:
+      213: -8767428145204208105
+    second: Walking Man - Right_21
+  - first:
+      213: -7106306221406627192
+    second: Walking Man - Right_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walking Man - Right_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 270
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0d7bf824041bf45ab039a98fa005bd
+      internalID: -6664036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Right_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 270
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bf48f15efbbc242a806a73a81116c4
+      internalID: -456907796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Right_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 270
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e07051d574effd44b6931aef912ebe7
+      internalID: -1433457666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Right_3
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 270
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41c11d3799e6bf459746ddfe286ef74
+      internalID: -81477798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Right_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 78
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd762eea5081b7a4faa785ec961480bd
+      internalID: -466917036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Right_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 78
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d169db3bef8078e45b0a01fe44eb1acb
+      internalID: -1343381294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Right_6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 78
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3b08abdb0fc149ab50663fc86cc74
+      internalID: 396485899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Right_7
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 78
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f403f146a1c8dc4799abf2bbb6e21ae
+      internalID: 51656020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 18c81093d925ce8429386c8957c5bd22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Walking Man - Right_0: -6664036
+      Walking Man - Right_1: -456907796
+      Walking Man - Right_2: -1433457666
+      Walking Man - Right_3: -81477798
+      Walking Man - Right_4: -466917036
+      Walking Man - Right_5: -1343381294
+      Walking Man - Right_6: 396485899
+      Walking Man - Right_7: 51656020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

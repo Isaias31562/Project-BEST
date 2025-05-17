@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 4be8fea834410ac4b9cdcaa274d68162
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -754821579917646810
+    second: Walking Man - Up_0
+  - first:
+      213: -6495131318408736760
+    second: Walking Man - Up_1
+  - first:
+      213: 9030526364406218599
+    second: Walking Man - Up_2
+  - first:
+      213: -4007328363603548977
+    second: Walking Man - Up_3
+  - first:
+      213: 110878485877634083
+    second: Walking Man - Up_4
+  - first:
+      213: 3364646129310746989
+    second: Walking Man - Up_5
+  - first:
+      213: 7298507132946278760
+    second: Walking Man - Up_6
+  - first:
+      213: -4214649977505641363
+    second: Walking Man - Up_7
+  - first:
+      213: 5607342033232721794
+    second: Walking Man - Up_8
+  - first:
+      213: 2413787461367738240
+    second: Walking Man - Up_9
+  - first:
+      213: -5724529555478186248
+    second: Walking Man - Up_10
+  - first:
+      213: 8590884095493755759
+    second: Walking Man - Up_11
+  - first:
+      213: -3272004725224194643
+    second: Walking Man - Up_12
+  - first:
+      213: 8510859063178148239
+    second: Walking Man - Up_13
+  - first:
+      213: 1850977741117755956
+    second: Walking Man - Up_14
+  - first:
+      213: -7335791272144190838
+    second: Walking Man - Up_15
+  - first:
+      213: -7209456235894931022
+    second: Walking Man - Up_16
+  - first:
+      213: 1167036190634148901
+    second: Walking Man - Up_17
+  - first:
+      213: 4303142655007835008
+    second: Walking Man - Up_18
+  - first:
+      213: 3210855187023456838
+    second: Walking Man - Up_19
+  - first:
+      213: 4559154364989496262
+    second: Walking Man - Up_20
+  - first:
+      213: -1610155209786594653
+    second: Walking Man - Up_21
+  - first:
+      213: -1335695540399809819
+    second: Walking Man - Up_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walking Man - Up_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 809
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b272a0229a380b4bbae2a592d726787
+      internalID: 857977056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Up_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 809
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedd9421c3bbc4e4c8c162796978541b
+      internalID: -1473667008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Up_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 553
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8acb4a265b628488624c0bf40f19cf
+      internalID: 1902030559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Up_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 553
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829cdc5128ea93044834647e5b16aac0
+      internalID: 1710017147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Up_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 297
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3b4904c749334fa34a2a6e7da7f91
+      internalID: 1769276232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Up_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 297
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c87ee8b2735cd42a6c884b58b65f73
+      internalID: -1332897299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Up_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 41
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b9deb2fe0bf6d4a826beb8e07d9bbd
+      internalID: -297764279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking Man - Up_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 41
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf8f50e06b6d24d82b421ae6bbb38e
+      internalID: 2085651406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b84e271d6d49ab4895eba44834b4a28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Walking Man - Up_0: 857977056
+      Walking Man - Up_1: -1473667008
+      Walking Man - Up_2: 1902030559
+      Walking Man - Up_3: 1710017147
+      Walking Man - Up_4: 1769276232
+      Walking Man - Up_5: -1332897299
+      Walking Man - Up_6: -297764279
+      Walking Man - Up_7: 2085651406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
