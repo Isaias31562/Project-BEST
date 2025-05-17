@@ -8,9 +8,11 @@ public class HealthSlider : MonoBehaviour
 	public int health;
 	public int maxHealth = 10;
 	public Slider slider;
-	
-	//Start is called before the first frame update.
-	void Start()
+	public GameObject playerBody;
+    public Transform bulletTransform;
+
+    //Start is called before the first frame update.
+    void Start()
 	{
 		health = maxHealth;
 		slider.maxValue = maxHealth;
@@ -30,7 +32,9 @@ public class HealthSlider : MonoBehaviour
 		
 		if(health <= 0)
 		{
-			Destroy(gameObject);
-		}
+            Instantiate(playerBody, bulletTransform.position, Quaternion.identity);
+            Destroy(gameObject);
+            
+        }
 	}
 }

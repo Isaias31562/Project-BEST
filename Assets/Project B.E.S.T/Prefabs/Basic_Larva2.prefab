@@ -278,7 +278,7 @@ GameObject:
   - component: {fileID: 3345019245127049307}
   m_Layer: 0
   m_Name: Basic_Larva2
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -420,8 +420,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 28, y: 28}
+  m_Offset: {x: -0.0011651516, y: 0.038884997}
+  m_Size: {x: 1.5437617, y: 1.5437617}
   m_Direction: 0
 --- !u!70 &2166806074505154816
 CapsuleCollider2D:
@@ -457,8 +457,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1.5, y: 1.5}
+  m_Offset: {x: 0, y: -0.011343956}
+  m_Size: {x: 1.5, y: 1.5226879}
   m_Direction: 0
 --- !u!114 &3217224223024125124
 MonoBehaviour:
@@ -472,7 +472,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 256fbaf1eb7374a4eb70f84efca3dfaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 4
+  playerAwarnessDistance: 10
+  Speed: 5
+  _rotationSpeed: 100
 --- !u!114 &3345019245127049307
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -486,6 +488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 1
+  Health: 5
 --- !u!1 &8281614751243554053
 GameObject:
   m_ObjectHideFlags: 0

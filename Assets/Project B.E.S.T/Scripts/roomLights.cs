@@ -7,6 +7,8 @@ public class roomTriggers : MonoBehaviour
     public GameObject[] roomLights;
     //public float areaLength = 0; // distance between characterObject and areaObject   Left over code
     bool isPlayerInside = false;
+    public GameObject[] SpawnLocations;
+    public GameObject[] EnemyList;
     //public GameObject Players; left over code
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -20,7 +22,7 @@ public class roomTriggers : MonoBehaviour
     {
         RunningRoomLight();
     }
-    private void OnTriggerStay2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Player")
         {
