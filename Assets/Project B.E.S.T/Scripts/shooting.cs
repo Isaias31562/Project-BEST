@@ -1,9 +1,9 @@
+using System.Collections;
 using UnityEngine;
 
 public class shooting : MonoBehaviour
 {
-    private Camera mainCam;
-    private Vector3 mousePos;
+
     public GameObject bullet;
     public Transform bulletTransform;
     public Transform muzzle;
@@ -11,12 +11,19 @@ public class shooting : MonoBehaviour
     private float timer;
     public float timeBetweenFiring;
 
+    private bool Reloading;
+    [SerializeField]
+    private int magSize = 30;
+    [SerializeField]
+    private int currentAmmo=15;
+    private float reloadTime = 1f;
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        mainCam = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>();
+ 
 
     }
 
@@ -36,11 +43,24 @@ public class shooting : MonoBehaviour
 
         }
 
-        if (Input.GetMouseButton(0) && canFire)
+        if (currentAmmo > 0)
         {
-            canFire = false;
-            Instantiate(bullet, bulletTransform.position, Quaternion.identity);
-
+            if (Input.GetMouseButton(0) && canFire)
+            {
+                canFire = false;
+                Instantiate(bullet, bulletTransform.position, Quaternion.identity);
+                currentAmmo--;
+            }
         }
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            Reload();
+            return;
+        }
+
+    }
+    private void Reload()
+    {
+            currentAmmo = magSize;
     }
 }
