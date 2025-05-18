@@ -1,0 +1,4367 @@
+fileFormatVersion: 2
+guid: e7838fb880d93aa43ab0fe8f5b1c83d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5529739709321645561
+    second: cockroach-death_0
+  - first:
+      213: -71857831273477754
+    second: cockroach-death_1
+  - first:
+      213: 6214256770015468227
+    second: cockroach-death_2
+  - first:
+      213: -541405504415525088
+    second: cockroach-death_3
+  - first:
+      213: 8538823214882578071
+    second: cockroach-death_4
+  - first:
+      213: 7043451486093882613
+    second: cockroach-death_5
+  - first:
+      213: -7010417651642115312
+    second: cockroach-death_6
+  - first:
+      213: -7790168862897149989
+    second: cockroach-death_7
+  - first:
+      213: 5686480310288695437
+    second: cockroach-death_8
+  - first:
+      213: -7148633226989567239
+    second: cockroach-death_9
+  - first:
+      213: -3410119666784474064
+    second: cockroach-death_10
+  - first:
+      213: -4198707801059152144
+    second: cockroach-death_11
+  - first:
+      213: -3790859332594029672
+    second: cockroach-death_12
+  - first:
+      213: 4825148508568137275
+    second: cockroach-death_13
+  - first:
+      213: 1003456731654558847
+    second: cockroach-death_14
+  - first:
+      213: 8879243478041825954
+    second: cockroach-death_15
+  - first:
+      213: 4888839023857367138
+    second: cockroach-death_16
+  - first:
+      213: 4678040907163702131
+    second: cockroach-death_17
+  - first:
+      213: 2838164915543320218
+    second: cockroach-death_18
+  - first:
+      213: 4684213598620810915
+    second: cockroach-death_19
+  - first:
+      213: -5380317249967878971
+    second: cockroach-death_20
+  - first:
+      213: -78069104764897333
+    second: cockroach-death_21
+  - first:
+      213: 6594107334364328666
+    second: cockroach-death_22
+  - first:
+      213: 552546372105044593
+    second: cockroach-death_23
+  - first:
+      213: 3122951132912037326
+    second: cockroach-death_24
+  - first:
+      213: 9051441594803147609
+    second: cockroach-death_25
+  - first:
+      213: 3582638173423840094
+    second: cockroach-death_26
+  - first:
+      213: 6960504248196556516
+    second: cockroach-death_27
+  - first:
+      213: -4384213838519288762
+    second: cockroach-death_28
+  - first:
+      213: -251659483867394220
+    second: cockroach-death_29
+  - first:
+      213: -4766508076017763274
+    second: cockroach-death_30
+  - first:
+      213: -8619495151588318113
+    second: cockroach-death_31
+  - first:
+      213: -2426409538797217526
+    second: cockroach-death_32
+  - first:
+      213: -6117968861293443313
+    second: cockroach-death_33
+  - first:
+      213: -7230594292607807288
+    second: cockroach-death_34
+  - first:
+      213: 481591692779313164
+    second: cockroach-death_35
+  - first:
+      213: -4986471931881926638
+    second: cockroach-death_36
+  - first:
+      213: -1793446939078458032
+    second: cockroach-death_37
+  - first:
+      213: -4509080911317316912
+    second: cockroach-death_38
+  - first:
+      213: -6188634249786185009
+    second: cockroach-death_39
+  - first:
+      213: -706499739033557813
+    second: cockroach-death_40
+  - first:
+      213: -4333973941071013990
+    second: cockroach-death_41
+  - first:
+      213: -5540756545441707410
+    second: cockroach-death_42
+  - first:
+      213: -8345998893869247045
+    second: cockroach-death_43
+  - first:
+      213: 6798036359827077376
+    second: cockroach-death_44
+  - first:
+      213: 8037986786002001990
+    second: cockroach-death_45
+  - first:
+      213: -4103664549947966892
+    second: cockroach-death_46
+  - first:
+      213: -6940049718839049839
+    second: cockroach-death_47
+  - first:
+      213: -1298045196075666300
+    second: cockroach-death_48
+  - first:
+      213: 2290251414284890234
+    second: cockroach-death_49
+  - first:
+      213: 6043274507467664487
+    second: cockroach-death_50
+  - first:
+      213: -7656464333954008644
+    second: cockroach-death_51
+  - first:
+      213: 8146968852359412937
+    second: cockroach-death_52
+  - first:
+      213: -6931118991855557385
+    second: cockroach-death_53
+  - first:
+      213: 8957831682713688397
+    second: cockroach-death_54
+  - first:
+      213: -6704333314972111695
+    second: cockroach-death_55
+  - first:
+      213: -3682113336753676857
+    second: cockroach-death_56
+  - first:
+      213: 4330767891167481739
+    second: cockroach-death_57
+  - first:
+      213: -348429926412399782
+    second: cockroach-death_58
+  - first:
+      213: 1982216731126963630
+    second: cockroach-death_59
+  - first:
+      213: -6741492992394743166
+    second: cockroach-death_60
+  - first:
+      213: 4711223519290842710
+    second: cockroach-death_61
+  - first:
+      213: 1661360175515663813
+    second: cockroach-death_62
+  - first:
+      213: 5198607664571459130
+    second: cockroach-death_63
+  - first:
+      213: -7850638480935628808
+    second: cockroach-death_64
+  - first:
+      213: 118225248768007593
+    second: cockroach-death_65
+  - first:
+      213: -3440335660941773376
+    second: cockroach-death_66
+  - first:
+      213: -9000983007884358861
+    second: cockroach-death_67
+  - first:
+      213: -3416190564437446740
+    second: cockroach-death_68
+  - first:
+      213: -8131856156941919288
+    second: cockroach-death_69
+  - first:
+      213: 4104119224969918048
+    second: cockroach-death_70
+  - first:
+      213: 881797355686993436
+    second: cockroach-death_71
+  - first:
+      213: -5262701958115830820
+    second: cockroach-death_72
+  - first:
+      213: 3671098221106164945
+    second: cockroach-death_73
+  - first:
+      213: 1841428496023301271
+    second: cockroach-death_74
+  - first:
+      213: 6054433421920802300
+    second: cockroach-death_75
+  - first:
+      213: -8465892156896475243
+    second: cockroach-death_76
+  - first:
+      213: 4600050577300785754
+    second: cockroach-death_77
+  - first:
+      213: 2992861867764545127
+    second: cockroach-death_78
+  - first:
+      213: 3754890746478947908
+    second: cockroach-death_79
+  - first:
+      213: -1696827958095148934
+    second: cockroach-death_80
+  - first:
+      213: -3409483890287977675
+    second: cockroach-death_81
+  - first:
+      213: 880855746604920706
+    second: cockroach-death_82
+  - first:
+      213: 873289288668601934
+    second: cockroach-death_83
+  - first:
+      213: 7944838905483509250
+    second: cockroach-death_84
+  - first:
+      213: 5276840632139441258
+    second: cockroach-death_85
+  - first:
+      213: 6582083058297409862
+    second: cockroach-death_86
+  - first:
+      213: 7059885453500777656
+    second: cockroach-death_87
+  - first:
+      213: -4910336219137315470
+    second: cockroach-death_88
+  - first:
+      213: 3467935535178895293
+    second: cockroach-death_89
+  - first:
+      213: -8104154346415102633
+    second: cockroach-death_90
+  - first:
+      213: 632852720121401435
+    second: cockroach-death_91
+  - first:
+      213: 5352101185861025799
+    second: cockroach-death_92
+  - first:
+      213: -2560515696480861566
+    second: cockroach-death_93
+  - first:
+      213: -1562991368747058515
+    second: cockroach-death_94
+  - first:
+      213: 4723087424344552812
+    second: cockroach-death_95
+  - first:
+      213: 8510308741504343504
+    second: cockroach-death_96
+  - first:
+      213: -1909649793979932780
+    second: cockroach-death_97
+  - first:
+      213: -6822097678180420404
+    second: cockroach-death_98
+  - first:
+      213: -3728633609897086712
+    second: cockroach-death_99
+  - first:
+      213: 8109043947192637839
+    second: cockroach-death_100
+  - first:
+      213: 9068773079725226247
+    second: cockroach-death_101
+  - first:
+      213: -41895519285152097
+    second: cockroach-death_102
+  - first:
+      213: -3230004535141705215
+    second: cockroach-death_103
+  - first:
+      213: -6779201088098487204
+    second: cockroach-death_104
+  - first:
+      213: -1149185147109898864
+    second: cockroach-death_105
+  - first:
+      213: -2673640264935640014
+    second: cockroach-death_106
+  - first:
+      213: 428724759436150059
+    second: cockroach-death_107
+  - first:
+      213: -6069728129784909956
+    second: cockroach-death_108
+  - first:
+      213: -2135029276969259646
+    second: cockroach-death_109
+  - first:
+      213: 1236832355582260355
+    second: cockroach-death_110
+  - first:
+      213: 384044212744286285
+    second: cockroach-death_111
+  - first:
+      213: 6730317932985442192
+    second: cockroach-death_112
+  - first:
+      213: 8777168483869997077
+    second: cockroach-death_113
+  - first:
+      213: 9075390176129849591
+    second: cockroach-death_114
+  - first:
+      213: -3230663548241464636
+    second: cockroach-death_115
+  - first:
+      213: -6014796267215603909
+    second: cockroach-death_116
+  - first:
+      213: 6920008184093029669
+    second: cockroach-death_117
+  - first:
+      213: 1376526952015226989
+    second: cockroach-death_118
+  - first:
+      213: 5733011757217446143
+    second: cockroach-death_119
+  - first:
+      213: -189515213897611547
+    second: cockroach-death_120
+  - first:
+      213: -5409578502247838368
+    second: cockroach-death_121
+  - first:
+      213: -4199218414943459678
+    second: cockroach-death_122
+  - first:
+      213: -1630537942469508298
+    second: cockroach-death_123
+  - first:
+      213: -1186757732833765889
+    second: cockroach-death_124
+  - first:
+      213: 5553979628282079457
+    second: cockroach-death_125
+  - first:
+      213: 5658500236880387558
+    second: cockroach-death_126
+  - first:
+      213: 4153995993904306761
+    second: cockroach-death_127
+  - first:
+      213: -4268732523613279700
+    second: cockroach-death_128
+  - first:
+      213: -409408294923463357
+    second: cockroach-death_129
+  - first:
+      213: 1106968087952773769
+    second: cockroach-death_130
+  - first:
+      213: 1832359653147321981
+    second: cockroach-death_131
+  - first:
+      213: -2182094696312608952
+    second: cockroach-death_132
+  - first:
+      213: -5868338696596585461
+    second: cockroach-death_133
+  - first:
+      213: -5451055957723031106
+    second: cockroach-death_134
+  - first:
+      213: -7429585702230831259
+    second: cockroach-death_135
+  - first:
+      213: 7012949849566194090
+    second: cockroach-death_136
+  - first:
+      213: 7516660354771856225
+    second: cockroach-death_137
+  - first:
+      213: -2452706359386831109
+    second: cockroach-death_138
+  - first:
+      213: 3900602533353878856
+    second: cockroach-death_139
+  - first:
+      213: 1010482911372989206
+    second: cockroach-death_140
+  - first:
+      213: -3758285503615470821
+    second: cockroach-death_141
+  - first:
+      213: 3498458462588719817
+    second: cockroach-death_142
+  - first:
+      213: 5241756357129961075
+    second: cockroach-death_143
+  - first:
+      213: 3212081517216254665
+    second: cockroach-death_144
+  - first:
+      213: 7871870959315016157
+    second: cockroach-death_145
+  - first:
+      213: -5292067396127967423
+    second: cockroach-death_146
+  - first:
+      213: 596533289803137983
+    second: cockroach-death_147
+  - first:
+      213: -4039736989030560018
+    second: cockroach-death_148
+  - first:
+      213: 2248547884611722261
+    second: cockroach-death_149
+  - first:
+      213: -2111335984267085103
+    second: cockroach-death_150
+  - first:
+      213: 2156790471130726688
+    second: cockroach-death_151
+  - first:
+      213: 9075885079840081022
+    second: cockroach-death_152
+  - first:
+      213: -2220326719123358960
+    second: cockroach-death_153
+  - first:
+      213: 7204387941412232992
+    second: cockroach-death_154
+  - first:
+      213: -4917472484715196765
+    second: cockroach-death_155
+  - first:
+      213: 2961315710852299520
+    second: cockroach-death_156
+  - first:
+      213: 4976934300163763102
+    second: cockroach-death_157
+  - first:
+      213: -5473970372631456387
+    second: cockroach-death_158
+  - first:
+      213: 7946003715288864485
+    second: cockroach-death_159
+  - first:
+      213: -4834214483281008367
+    second: cockroach-death_160
+  - first:
+      213: 401721299132655785
+    second: cockroach-death_161
+  - first:
+      213: -3528769728484184911
+    second: cockroach-death_162
+  - first:
+      213: 6521358098781469593
+    second: cockroach-death_163
+  - first:
+      213: -7283720029892220624
+    second: cockroach-death_164
+  - first:
+      213: 3104513080177963797
+    second: cockroach-death_165
+  - first:
+      213: 7123459690561847738
+    second: cockroach-death_166
+  - first:
+      213: -5439440764271502997
+    second: cockroach-death_167
+  - first:
+      213: -2612282793771976451
+    second: cockroach-death_168
+  - first:
+      213: -5955630217671737340
+    second: cockroach-death_169
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cockroach-death_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 456
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702f28d380b6243b0800000000000000
+      internalID: -5529739709321645561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 456
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6894d94eea5b00ff0800000000000000
+      internalID: -71857831273477754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 456
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca96d79b997d3650800000000000000
+      internalID: 6214256770015468227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 456
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0271fddef8a8c78f0800000000000000
+      internalID: -541405504415525088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 392
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e5fea297eff7670800000000000000
+      internalID: 8538823214882578071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 392
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4b25d0fcd5fb160800000000000000
+      internalID: 7043451486093882613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 392
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b5eb2e94ef5be90800000000000000
+      internalID: -7010417651642115312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 392
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7e4ba71b2c3e390800000000000000
+      internalID: -7790168862897149989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 361
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80c205c6bf6aee40800000000000000
+      internalID: 5686480310288695437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 328
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f28bb384f3facc90800000000000000
+      internalID: -7148633226989567239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 374
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cecbb0b32dca0d0800000000000000
+      internalID: -3410119666784474064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 361
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe253a20813bb5c0800000000000000
+      internalID: -4198707801059152144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 328
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b22479589246bc0800000000000000
+      internalID: -3790859332594029672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 374
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ea5b9f00f56f240800000000000000
+      internalID: 4825148508568137275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 361
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f749eb5b49efced00800000000000000
+      internalID: 1003456731654558847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 328
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a213e626e8693b70800000000000000
+      internalID: 8879243478041825954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 362
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268f515a035a8d340800000000000000
+      internalID: 4888839023857367138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 340
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3731d347b6dbbe040800000000000000
+      internalID: 4678040907163702131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 351
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96afe414ff236720800000000000000
+      internalID: 2838164915543320218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 340
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aef8dd237ba10140800000000000000
+      internalID: 4684213598620810915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 351
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc02c0a7f54555b0800000000000000
+      internalID: -5380317249967878971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 340
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc73e861094aaeef0800000000000000
+      internalID: -78069104764897333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_22
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 348
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2759bfea9f28b50800000000000000
+      internalID: 6594107334364328666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 339
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17280477ff90ba700800000000000000
+      internalID: 552546372105044593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 339
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd20206283f65b20800000000000000
+      internalID: 3122951132912037326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 339
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953df638c2e2d9d70800000000000000
+      internalID: 9051441594803147609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 340
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5baea5ef6618b130800000000000000
+      internalID: 3582638173423840094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 328
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e66a534cbda89060800000000000000
+      internalID: 6960504248196556516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 330
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cb4bf0eb42823c0800000000000000
+      internalID: -4384213838519288762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 298
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fc9b3680de18cf0800000000000000
+      internalID: -251659483867394220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 276
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c3eeda826f9ddb0800000000000000
+      internalID: -4766508076017763274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 313
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f546062e3d6616880800000000000000
+      internalID: -8619495151588318113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 313
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a095f505169a35ed0800000000000000
+      internalID: -2426409538797217526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 301
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0704bb2cbb981ba0800000000000000
+      internalID: -6117968861293443313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 276
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0152adcc4c7ab90800000000000000
+      internalID: -7230594292607807288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 301
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08d3eec715fea600800000000000000
+      internalID: 481591692779313164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 276
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210d8b9823e7ccab0800000000000000
+      internalID: -4986471931881926638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 291
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05587b0d2856c17e0800000000000000
+      internalID: -1793446939078458032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 287
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dacf612dc68c61c0800000000000000
+      internalID: -4509080911317316912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_39
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 276
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaada840fd8d1aa0800000000000000
+      internalID: -6188634249786185009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4aff40b320236f0800000000000000
+      internalID: -706499739033557813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 276
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9799a8b9a1aad3c0800000000000000
+      internalID: -4333973941071013990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 284
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ac60237474b13b0800000000000000
+      internalID: -5540756545441707410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 277
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5de1b993e0d2c80800000000000000
+      internalID: -8345998893869247045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_44
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 276
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009bead3d0a775e50800000000000000
+      internalID: 6798036359827077376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 287
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640eee0156aac8f60800000000000000
+      internalID: 8037986786002001990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45afcfe75dadc07c0800000000000000
+      internalID: -4103664549947966892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 284
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1918c09fc8dffaf90800000000000000
+      internalID: -6940049718839049839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 277
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484f18185ca6cfde0800000000000000
+      internalID: -1298045196075666300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 276
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7079cae68b98cf10800000000000000
+      internalID: 2290251414284890234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_50
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 287
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ca8c955260ed350800000000000000
+      internalID: 6043274507467664487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_51
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 276
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb939330146ceb590800000000000000
+      internalID: -7656464333954008644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 284
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccfd09b109df0170800000000000000
+      internalID: 8146968852359412937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 287
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f46c72eff7bfcf90800000000000000
+      internalID: -6931118991855557385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_54
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 276
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4993ed647c905c70800000000000000
+      internalID: 8957831682713688397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 281
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc25410f5c65f2a0800000000000000
+      internalID: -6704333314972111695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_56
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 286
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd911ccd6186ecc0800000000000000
+      internalID: -3682113336753676857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_57
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 287
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f84bd937af91c30800000000000000
+      internalID: 4330767891167481739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 276
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bc217f3d02a2bf0800000000000000
+      internalID: -348429926412399782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_59
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 284
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead98ae5d9f328b10800000000000000
+      internalID: 1982216731126963630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 276
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282b68467d76172a0800000000000000
+      internalID: -6741492992394743166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 264
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65edbc464d0a16140800000000000000
+      internalID: 4711223519290842710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_62
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 266
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd779107465e0710800000000000000
+      internalID: 1661360175515663813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 264
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36a765a02a252840800000000000000
+      internalID: 5198607664571459130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_64
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 266
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffc1d365edec0390800000000000000
+      internalID: -7850638480935628808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_65
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 264
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad9c44cc3504a100800000000000000
+      internalID: 118225248768007593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_66
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 266
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5f47da1f87140d0800000000000000
+      internalID: -3440335660941773376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 264
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bc9b1c4a5161380800000000000000
+      internalID: -9000983007884358861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_68
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 276
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf2aa908c04790d0800000000000000
+      internalID: -3416190564437446740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_69
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 266
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb57e0e8e7d52f80800000000000000
+      internalID: -8131856156941919288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_70
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 223
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066fe28c0b2c4f830800000000000000
+      internalID: 4104119224969918048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_71
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 227
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e1a95e506cc3c00800000000000000
+      internalID: 881797355686993436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_72
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 222
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d0cbb37027f6b0800000000000000
+      internalID: -5262701958115830820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4f99cb16c52f230800000000000000
+      internalID: 3671098221106164945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 220
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c20c8f5711e8910800000000000000
+      internalID: 1841428496023301271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 223
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf597d59e1ba50450800000000000000
+      internalID: 6054433421920802300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_76
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 227
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5978b6100fb138a80800000000000000
+      internalID: -8465892156896475243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_77
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 222
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a08d0c0a9a6df30800000000000000
+      internalID: 4600050577300785754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 223
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766fae90308c88920800000000000000
+      internalID: 2992861867764545127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_79
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 223
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e674a5d3d0c1430800000000000000
+      internalID: 3754890746478947908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_80
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7889c856f7a378e0800000000000000
+      internalID: -1696827958095148934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_81
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 222
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bd7fb47741fa0d0800000000000000
+      internalID: -3409483890287977675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 223
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f6fb272ad693c00800000000000000
+      internalID: 880855746604920706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_83
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 223
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ede3d2bfb8e1c00800000000000000
+      internalID: 873289288668601934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_84
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 227
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e3c0714ecb14e60800000000000000
+      internalID: 7944838905483509250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_85
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 222
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64e407d89a1b3940800000000000000
+      internalID: 5276840632139441258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_86
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 218
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6411feb0ba1485b50800000000000000
+      internalID: 6582083058297409862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 212
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b48cd24a60c9f160800000000000000
+      internalID: 7059885453500777656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_88
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 217
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27de59a893bfadbb0800000000000000
+      internalID: -4910336219137315470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_89
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 212
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfca4ecef4902030800000000000000
+      internalID: 3467935535178895293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_90
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 212
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7556df04f82488f80800000000000000
+      internalID: -8104154346415102633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_91
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 212
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50d9f9223858c800800000000000000
+      internalID: 632852720121401435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_92
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 217
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70081310cab764a40800000000000000
+      internalID: 5352101185861025799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_93
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 212
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282427d4a88377cd0800000000000000
+      internalID: -2560515696480861566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 212
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa74d691a32f4ae0800000000000000
+      internalID: -1562991368747058515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 212
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65fb2b0df6cb8140800000000000000
+      internalID: 4723087424344552812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_96
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 217
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd944af5b0ba1670800000000000000
+      internalID: 8510308741504343504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_97
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 212
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f9d6051af8f75e0800000000000000
+      internalID: -1909649793979932780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_98
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 212
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4f9058e4a0351a0800000000000000
+      internalID: -6822097678180420404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 212
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8017088ac7b314cc0800000000000000
+      internalID: -3728633609897086712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_100
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 217
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89d274a18c198070800000000000000
+      internalID: 8109043947192637839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_101
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 212
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709b5ad4111cadd70800000000000000
+      internalID: 9068773079725226247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_102
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 212
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96f3574f382b6ff0800000000000000
+      internalID: -41895519285152097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_103
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 200
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a5af31df7bc23d0800000000000000
+      internalID: -3230004535141705215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_104
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b2f237807be1a0800000000000000
+      internalID: -6779201088098487204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_105
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 200
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0950c5582364d00f0800000000000000
+      internalID: -1149185147109898864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_106
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2347457385255ead0800000000000000
+      internalID: -2673640264935640014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_107
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 200
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254b90b5e223f500800000000000000
+      internalID: 428724759436150059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_108
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f69fcbc6ef3cba0800000000000000
+      internalID: -6069728129784909956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_109
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 200
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d20393f2ade52e0800000000000000
+      internalID: -2135029276969259646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_110
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384b031797c1a2110800000000000000
+      internalID: 1236832355582260355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_111
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 159
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40faae3d26645500800000000000000
+      internalID: 384044212744286285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_112
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 163
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fd9055084e66d50800000000000000
+      internalID: 6730317932985442192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_113
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51833de8b34cec970800000000000000
+      internalID: 8777168483869997077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_114
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 159
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f81a4e184342fd70800000000000000
+      internalID: 9075390176129849591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_115
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 159
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2b342ae906a23d0800000000000000
+      internalID: -3230663548241464636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_116
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 159
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37b448a9a6278ca0800000000000000
+      internalID: -6014796267215603909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_117
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 159
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52539a797cec80060800000000000000
+      internalID: 6920008184093029669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_118
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 165
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d686e9e38f76a1310800000000000000
+      internalID: 1376526952015226989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_119
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8751281dfbf8f40800000000000000
+      internalID: 5733011757217446143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_120
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 163
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6c914cae4be5df0800000000000000
+      internalID: -189515213897611547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 148
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d8dec63015de4b0800000000000000
+      internalID: -5409578502247838368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_122
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 153
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6240b991169b5c0800000000000000
+      internalID: -4199218414943459678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_123
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 158
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6330f4a516a2f59e0800000000000000
+      internalID: -1630537942469508298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_124
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 149
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5def3312ac78fe0800000000000000
+      internalID: -1186757732833765889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_125
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 153
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e86281bb03b31d40800000000000000
+      internalID: 5553979628282079457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_126
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 158
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed18b44cf7078e40800000000000000
+      internalID: 5658500236880387558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_127
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 136
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94adf0ff855f5a930800000000000000
+      internalID: 4153995993904306761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_128
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 153
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aafd0f26a62c4c0800000000000000
+      internalID: -4268732523613279700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_129
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 158
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3451dfc235d715af0800000000000000
+      internalID: -409408294923463357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_130
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 148
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9825e1c6c9dbc5f00800000000000000
+      internalID: 1106968087952773769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_131
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 158
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76aa927569dd6910800000000000000
+      internalID: 1832359653147321981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_132
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 136
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847e5085f64a7b1e0800000000000000
+      internalID: -2182094696312608952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_133
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 148
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b048ea71c097f8ea0800000000000000
+      internalID: -5868338696596585461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_134
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 148
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb95425cc75f954b0800000000000000
+      internalID: -5451055957723031106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_135
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 136
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fc53eda2fc4e890800000000000000
+      internalID: -7429585702230831259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_136
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 148
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9a5036bb0035160800000000000000
+      internalID: 7012949849566194090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 148
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b207784ca805860800000000000000
+      internalID: 7516660354771856225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_138
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf60866af8c36fdd0800000000000000
+      internalID: -2452706359386831109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_139
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845fb8a7659b12630800000000000000
+      internalID: 3900602533353878856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_140
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 136
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6135df7aad4f50e00800000000000000
+      internalID: 1010482911372989206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_141
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13ff782f33e7dbc0800000000000000
+      internalID: -3758285503615470821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_142
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 138
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c25f04af650d8030800000000000000
+      internalID: 3498458462588719817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_143
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 138
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e70e182a57eb840800000000000000
+      internalID: 5241756357129961075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_144
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cac54f1f1b939c20800000000000000
+      internalID: 3212081517216254665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_145
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 99
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd95fa73ee08e3d60800000000000000
+      internalID: 7871870959315016157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_146
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 99
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147bd56edbcce86b0800000000000000
+      internalID: -5292067396127967423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 110
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb34963dddf474800800000000000000
+      internalID: 596533289803137983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_148
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 94
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeec3d6ac98ffe7c0800000000000000
+      internalID: -4039736989030560018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_149
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 94
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cdcb24362743f10800000000000000
+      internalID: 2248547884611722261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_150
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 94
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dab240db1703b2e0800000000000000
+      internalID: -2111335984267085103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_151
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 99
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021c1be91857eed10800000000000000
+      internalID: 2156790471130726688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_152
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 89
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74c22ed46504fd70800000000000000
+      internalID: 9075885079840081022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_153
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 89
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bf75ddc90df21e0800000000000000
+      internalID: -2220326719123358960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_154
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 73
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fdbf789a02bf360800000000000000
+      internalID: 7204387941412232992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_155
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 89
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae0bcb34d0a1cbb0800000000000000
+      internalID: -4917472484715196765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_156
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 73
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b722503f4b81920800000000000000
+      internalID: 2961315710852299520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_157
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 89
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9be7b7806f911540800000000000000
+      internalID: 4976934300163763102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_158
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 73
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d751a4cc2fc8804b0800000000000000
+      internalID: -5473970372631456387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_159
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 74
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e61ab18740e54e60800000000000000
+      internalID: 7946003715288864485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 46
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119acfb4a8b69ecb0800000000000000
+      internalID: -4834214483281008367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_161
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 35
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8a285a463339500800000000000000
+      internalID: 401721299132655785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_162
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 35
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc6c8fc0aa470fc0800000000000000
+      internalID: -3528769728484184911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_163
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 35
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b7cf2a3a4808a50800000000000000
+      internalID: 6521358098781469593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_164
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03960ee39370bea90800000000000000
+      internalID: -7283720029892220624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_165
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 25
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513bf80b232751b20800000000000000
+      internalID: 3104513080177963797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_166
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 25
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1c0cbc8dc9bd260800000000000000
+      internalID: 7123459690561847738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_167
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6951dcb1793384b0800000000000000
+      internalID: -5439440764271502997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_168
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df83b58b3ae4fbbd0800000000000000
+      internalID: -2612282793771976451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cockroach-death_169
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400081e0fd9595da0800000000000000
+      internalID: -5955630217671737340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
