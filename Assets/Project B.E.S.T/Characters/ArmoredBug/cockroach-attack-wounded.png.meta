@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cockroach-attack-wounded_0: 4135538515468975739
+      cockroach-attack-wounded_1: -6410278175264458501
+      cockroach-attack-wounded_2: 3520433491723975311
+      cockroach-attack-wounded_3: -2086694131315879058
+      cockroach-attack-wounded_4: 6629663213142299839
+      cockroach-attack-wounded_5: -502256469670114727
+      cockroach-attack-wounded_6: -3339103366803612481
+      cockroach-attack-wounded_7: 3950319936903464300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

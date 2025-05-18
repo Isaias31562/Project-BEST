@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cockroach-move-wounded_0: -1708548805265275641
+      cockroach-move-wounded_1: 3124051627916024243
+      cockroach-move-wounded_2: -7566366116746117858
+      cockroach-move-wounded_3: 7808100342471730705
+      cockroach-move-wounded_4: 3418296930913755993
+      cockroach-move-wounded_5: -5152832932337891253
+      cockroach-move-wounded_6: -8585884159873782550
+      cockroach-move-wounded_7: 9156579126910754507
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
