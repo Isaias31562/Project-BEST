@@ -13,9 +13,9 @@ public class shooting : MonoBehaviour
 
     private bool Reloading;
     [SerializeField]
-    private int magSize = 30;
+    public int magSize = 30;
     [SerializeField]
-    private int currentAmmo=15;
+    public int currentAmmo=15;
     private float reloadTime = 1f;
 
 

@@ -140,7 +140,7 @@ TextureImporter:
         width: 16
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,7 +162,7 @@ TextureImporter:
         width: 32
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,7 +184,7 @@ TextureImporter:
         width: 68
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -193,6 +193,50 @@ TextureImporter:
       bones: []
       spriteID: dcab1b15822ee2500800000000000000
       internalID: 373484481915501261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi_space_rpg_tiles_lpcized_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 118
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79caea549ce3e2943902ee5ba43090b0
+      internalID: 1808933919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi_space_rpg_tiles_lpcized_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 103
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0e089aba582c243a54a4b72013f843
+      internalID: -1054017265
       vertices: []
       indices: 
       edges: []
@@ -214,6 +258,8 @@ TextureImporter:
       scifi_space_rpg_tiles_lpcized_0: 7038570272862576137
       scifi_space_rpg_tiles_lpcized_1: -8938653357429290570
       scifi_space_rpg_tiles_lpcized_2: 373484481915501261
+      scifi_space_rpg_tiles_lpcized_3: 1808933919
+      scifi_space_rpg_tiles_lpcized_4: -1054017265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

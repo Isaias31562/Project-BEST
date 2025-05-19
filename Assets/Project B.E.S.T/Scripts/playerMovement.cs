@@ -10,6 +10,7 @@ public class playerMovement : MonoBehaviour
     Rigidbody2D Body;
     public Camera Camera;
     Vector2 mousePostion;
+    public AudioClip [] Audio; 
 
     void Start()
     {
@@ -48,6 +49,10 @@ public class playerMovement : MonoBehaviour
         {
             Body.linearVelocity = Vector2.zero;
             Body.angularVelocity = 0f;
+        }
+        if (collision.gameObject.CompareTag("Enemy")) //currently Dosen't work
+        {
+            AudioSource.PlayClipAtPoint(Audio[Random.Range(0, Audio.Length)],Body.position);
         }
     }
 }

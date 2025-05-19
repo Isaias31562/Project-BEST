@@ -6,8 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Project B.E.S.T/Scenes/MainMenu.unity
+    guid: 88a906fed778cf04a886edab45415896
+  - enabled: 1
     path: Assets/Project B.E.S.T/Scenes/Base Level.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Project B.E.S.T/Scenes/EndingScreen.unity
+    guid: c4f2cb01aae26a5418966fcb29f441fc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
