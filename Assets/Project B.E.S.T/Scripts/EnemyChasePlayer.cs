@@ -26,6 +26,7 @@ public class EnemyChasePlayer : MonoBehaviour
 
 
     //Start is called before the first frame update    void Start(){rb = GetComponent<Rigidbody2D>();}
+    [System.Obsolete]
     private void Awake()
     {
         _player = FindObjectOfType<playerMovement>().transform;
