@@ -5,7 +5,6 @@ public class DeathMenu2 : MonoBehaviour
 {
     public HealthSlider healthSlider;
     public GameObject DeathPanel;
-    public Text gameOverText;
     public Button btnYes;
     public Button btnNo;
 
@@ -26,6 +25,6 @@ public class DeathMenu2 : MonoBehaviour
     void ShowGameOverScreen()
     {
         DeathPanel.SetActive(true);
-        gameOverText.text = "Would you like to retry?";
+        
     }
 }
