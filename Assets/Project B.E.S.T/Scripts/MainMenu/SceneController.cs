@@ -20,18 +20,10 @@ public class SceneController : MonoBehaviour
     }
     private void Update()
     {
-        if (HeathCheck.health <= 0)
-        {
-            showGameOverScreen();
-        }
     }
     public void NextLevel()
     {
         SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
-    }
-    void showGameOverScreen()
-    {
-        retryPanel.SetActive(true);
     }
     public void LoadScene(string sceneName)
     {
