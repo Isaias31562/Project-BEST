@@ -18,7 +18,7 @@ public class Ending : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (IsPlayerInRange=true && Input.GetKeyDown(KeyCode.E))
+        if (IsPlayerInRange==true && Input.GetKeyDown(KeyCode.E))
         {
             IsEnding = true;
             foreach (GameObject enemy in enemySpawner)
@@ -30,11 +30,12 @@ public class Ending : MonoBehaviour
             
         }
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(UnityEngine.Collider2D collision)
     {
         if(collision.gameObject.tag == "Player")
         {
             IsPlayerInRange = true;
+            return;
         }
         
     }
